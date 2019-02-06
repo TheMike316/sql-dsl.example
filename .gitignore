@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+
+# Gradle & Building
+.gradle
+/build
+/target
+/out
+
+# IDEA
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Eclipse
+.project
+.settings/
+.springBeans
+.classpath
+
+test-reports
+google_checks.xml
+.editorconfig
+
+# local configuration
+/config/*
+!/config/*.example
